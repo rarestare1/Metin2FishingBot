@@ -1,4 +1,4 @@
-# PescuitV3
+# PescuitHelper
 Un script care ajuta la pescuit in Metin2.
 # Keybindings
 ###### F1=Start script
